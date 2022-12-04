@@ -1,0 +1,2 @@
+Wichtige Änderung für Später
+git cherry-pick ist ein sehr praktischer Befehl, der es dir ermöglicht, beliebige Git-Commits anhand einer Referenz auszuwählen und an den aktuellen Arbeits-HEAD anzuhängen. Beim Cherry-Picking wird ein Commit aus einem Branch ausgewählt und auf einen anderen angewendet. git cherry-pick kann hilfreich sein, um Änderungen rückgängig zu machen. Wenn beispielsweise ein Commit versehentlich für den falschen Branch durchgeführt wurde, kannst du zum richtigen Branch wechseln und den Commit per Cherry-Pick auf diesen Branch übertragen.
